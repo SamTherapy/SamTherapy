@@ -1,0 +1,19 @@
+name: Mirror Push
+
+on:
+  push:
+    branches: [master]
+
+jobs:
+  push:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: mirror
+        uses: yesolutions/mirror-action@master
+        with:
+          REMOTE: 'ssh://git@git.froth.zone/sam/.profile.git'
+          GIT_SSH_PRIVATE_KEY: ${{ secrets.GIT_SSH_PRIVATE_KEY }}
+          GIT_SSH_NO_VERIFY_HOST: "true"

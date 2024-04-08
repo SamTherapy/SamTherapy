@@ -1,0 +1,25 @@
+name: Add blog
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: "16 * * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    name: Update README
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Pull in blog posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://blog.froth.zone/sam/feed/"
+          committer_username: "Sam Therapy"
+          committer_email: "sam@samtherapy.net"
+          commit_message: "Do the needful"
