@@ -8,19 +8,28 @@ Look below for those things.
 ## Link Zone
 
 These links may or may not be active.
+This list may never be complete.
 
-[![Webzone](https://img.shields.io/badge/WebZone-samtherapy.net-black?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MjAiCmhlaWdodD0iNDIwIiBzdHJva2U9IiMwMDAiIGZpbGw9Im5vbmUiPgo8cGF0aCBzdHJva2Utd2lkdGg9IjI2IgpkPSJNMjA5LDE1YTE5NSwxOTUgMCAxLDAgMiwweiIvPgo8cGF0aCBzdHJva2Utd2lkdGg9IjE4IgpkPSJtMjEwLDE1djM5MG0xOTUtMTk1SDE1TTU5LDkwYTI2MCwyNjAgMCAwLDAgMzAyLDAgbTAsMjQwIGEyNjAsMjYwIDAgMCwwLTMwMiwwTTE5NSwyMGEyNTAsMjUwIDAgMCwwIDAsMzgyIG0zMCwwIGEyNTAsMjUwIDAgMCwwIDAtMzgyIi8%2BCjwvc3ZnPg%3D%3D)](https://samtherapy.net)
-[![Forgejo Repositories](https://img.shields.io/badge/Forgejo%20Instance-git.froth.zone-red?style=for-the-badge&logo=forgejo)](https://git.froth.zone/sam?tab=repositories)
+[![Webzone](https://img.shields.io/badge/Website-samtherapy.net-black?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MjAiCmhlaWdodD0iNDIwIiBzdHJva2U9IiMwMDAiIGZpbGw9Im5vbmUiPgo8cGF0aCBzdHJva2Utd2lkdGg9IjI2IgpkPSJNMjA5LDE1YTE5NSwxOTUgMCAxLDAgMiwweiIvPgo8cGF0aCBzdHJva2Utd2lkdGg9IjE4IgpkPSJtMjEwLDE1djM5MG0xOTUtMTk1SDE1TTU5LDkwYTI2MCwyNjAgMCAwLDAgMzAyLDAgbTAsMjQwIGEyNjAsMjYwIDAgMCwwLTMwMiwwTTE5NSwyMGEyNTAsMjUwIDAgMCwwIDAsMzgyIG0zMCwwIGEyNTAsMjUwIDAgMCwwIDAtMzgyIi8%2BCjwvc3ZnPg%3D%3D)](https://samtherapy.net)
+[![Blog](https://img.shields.io/badge/Blog-blog.froth.zone-5AC4EE?style=for-the-badge&logo=writedotas&logoColor=white)](https://blog.froth.zone/sam)
+
+
+### Development
+
+[![Forgejo Repositories](https://img.shields.io/badge/git.froth.zone-sam-FB923C?style=for-the-badge&logo=forgejo)](https://git.froth.zone/sam?tab=repositories)
 [![GitHub](https://img.shields.io/badge/GitHub-SamTherapy-4078c0?style=for-the-badge&logo=github)](https://github.com/SamTherapy)
+[![Codeberg](https://img.shields.io/badge/Codeberg-sammefishe-2185D0?style=for-the-badge&logo=codeberg)](https://codeberg.org/sammefishe)
+[![SourceHut](https://img.shields.io/badge/SourceHut-~sammefishe-black?style=for-the-badge&logo=sourcehut)](https://sr.ht/~sammefishe/)
+[![GitLab](https://img.shields.io/badge/GitLab-SamTherapy-FC6D26?style=for-the-badge&logo=gitlab)](https://gitlab.com/SamTherapy)
 
 ### Messaging
 
-[![Matrix](https://img.shields.io/badge/Matrix-%40samme%3Aschizo.cafe-green?style=for-the-badge&logo=matrix)](https://matrix.to/#/@samme:schizo.cafe)
-[![XMPP](https://img.shields.io/badge/XMPP-sam%40samtherapy.net-orange?style=for-the-badge&logo=xmpp)](xmpp://sam@samtherapy.net)
+[![Matrix](https://img.shields.io/badge/Matrix-%40samme%3Aschizo.cafe-black?style=for-the-badge&logo=matrix)](https://matrix.to/#/@samme:schizo.cafe)
+[![XMPP](https://img.shields.io/badge/XMPP-sam%40samtherapy.net-002B5C?style=for-the-badge&logo=xmpp)](xmpp://sam@samtherapy.net)
 
 ### Socials
 
-[![Bluesky](https://img.shields.io/badge/Bluesky-%40samtherapy.net-blue?style=for-the-badge&logo=bluesky)](https://bsky.app/profile/samtherapy.net)
+[![Bluesky](https://img.shields.io/badge/Bluesky-%40samtherapy.net-0285FF?style=for-the-badge&logo=bluesky)](https://bsky.app/profile/samtherapy.net)
 [![Fedi](https://img.shields.io/badge/Fediverse-%40sam%40froth.zone-FBA457?style=for-the-badge&logo=pleroma)](https://froth.zone/users/sam)
 
 ## Blog Posts
