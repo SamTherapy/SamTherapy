@@ -16,7 +16,7 @@ This list may never be complete.
 
 ### Development
 
-[![Forgejo Repositories](https://img.shields.io/badge/git.froth.zone-sam-FB923C?style=for-the-badge&logo=forgejo)](https://git.froth.zone/sam?tab=repositories)
+[![Forgejo Repositories](https://img.shields.io/badge/git.froth.zone-sam-FB923C?style=for-the-badge&logo=forgejo)](https://git.froth.zone/sam)
 [![GitHub](https://img.shields.io/badge/GitHub-SamTherapy-4078c0?style=for-the-badge&logo=github)](https://github.com/SamTherapy)
 [![Codeberg](https://img.shields.io/badge/Codeberg-sammefishe-2185D0?style=for-the-badge&logo=codeberg)](https://codeberg.org/sammefishe)
 [![SourceHut](https://img.shields.io/badge/SourceHut-~sammefishe-black?style=for-the-badge&logo=sourcehut)](https://sr.ht/~sammefishe/)
