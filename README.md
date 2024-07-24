@@ -35,11 +35,11 @@ This list may never be complete.
 ## Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The City](https://blog.froth.zone/sam/the-city)
 - [Decentralised Software is a Joke](https://blog.froth.zone/sam/decentralised-software-is-a-joke)
 - [my little versailles](https://blog.froth.zone/sam/my-little-versailles)
 - [The Disappearance of Sam Therapy](https://blog.froth.zone/sam/the-disappearance-of-sam-therapy)
 - [The End of an Era](https://blog.froth.zone/sam/the-end-of-an-era)
-- [Downward, ho!](https://blog.froth.zone/sam/downward-ho)
 <!-- BLOG-POST-LIST:END -->
 
 [![See More Posts](https://img.shields.io/badge/See%20More%20Posts-grey?style=social&logo=writedotas)](https://blog.froth.zone/sam)
