@@ -35,11 +35,11 @@ This list may never be complete.
 ## Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Thinking of Things to Write](https://blog.froth.zone/sam/thinking-of-things-to-write)
 - [In the Year 2[0]25](https://blog.froth.zone/sam/in-the-year-2-0-25)
 - [The Ghost of Sam Therapy](https://blog.froth.zone/sam/the-ghost-of-sam-therapy)
 - [Killing Already Dead Services](https://blog.froth.zone/sam/killing-already-dead-services)
 - [The City](https://blog.froth.zone/sam/the-city)
-- [Decentralised Software is a Joke](https://blog.froth.zone/sam/decentralised-software-is-a-joke)
 <!-- BLOG-POST-LIST:END -->
 
 [![See More Posts](https://img.shields.io/badge/See%20More%20Posts-grey?style=social&logo=writedotas)](https://blog.froth.zone/sam)
