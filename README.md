@@ -35,11 +35,11 @@ This list may never be complete.
 ## Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hard Times](https://blog.froth.zone/sam/hard-times)
 - [Hosting Multiple Tor Services with Caddy](https://blog.froth.zone/sam/hosting-multiple-tor-services-with-caddy)
 - [Gotta Knock a Little Harder](https://blog.froth.zone/sam/gotta-knock-a-little-harder)
 - [Thinking of Things to Write](https://blog.froth.zone/sam/thinking-of-things-to-write)
 - [In the Year 2[0]25](https://blog.froth.zone/sam/in-the-year-2-0-25)
-- [The Ghost of Sam Therapy](https://blog.froth.zone/sam/the-ghost-of-sam-therapy)
 <!-- BLOG-POST-LIST:END -->
 
 [![See More Posts](https://img.shields.io/badge/See%20More%20Posts-grey?style=social&logo=writedotas)](https://blog.froth.zone/sam)
