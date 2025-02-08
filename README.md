@@ -35,11 +35,11 @@ This list may never be complete.
 ## Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Three Months](https://blog.froth.zone/sam/three-months)
 - [A Brief Defence of Boring](https://blog.froth.zone/sam/a-brief-defence-of-boring)
 - [Update on your Application](https://blog.froth.zone/sam/update-on-your-application)
 - [Hard Times](https://blog.froth.zone/sam/hard-times)
 - [Hosting Multiple Tor Services with Caddy](https://blog.froth.zone/sam/hosting-multiple-tor-services-with-caddy)
-- [Gotta Knock a Little Harder](https://blog.froth.zone/sam/gotta-knock-a-little-harder)
 <!-- BLOG-POST-LIST:END -->
 
 [![See More Posts](https://img.shields.io/badge/See%20More%20Posts-grey?style=social&logo=writedotas)](https://blog.froth.zone/sam)
