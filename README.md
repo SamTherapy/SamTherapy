@@ -35,11 +35,11 @@ This list may never be complete.
 ## Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fighting AI slop, with AI slop](https://blog.froth.zone/sam/fighting-ai-slop-with-ai-slop)
 - [Being &quot;Right Wing&quot; is the new &quot;Counterculture&quot;](https://blog.froth.zone/sam/being-right-wing-is-the-new-counterculture)
 - [Three Months](https://blog.froth.zone/sam/three-months)
 - [A Brief Defence of Boring](https://blog.froth.zone/sam/a-brief-defence-of-boring)
 - [Update on your Application](https://blog.froth.zone/sam/update-on-your-application)
-- [Hard Times](https://blog.froth.zone/sam/hard-times)
 <!-- BLOG-POST-LIST:END -->
 
 [![See More Posts](https://img.shields.io/badge/See%20More%20Posts-grey?style=social&logo=writedotas)](https://blog.froth.zone/sam)
