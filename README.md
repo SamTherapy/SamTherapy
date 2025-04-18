@@ -35,11 +35,11 @@ This list may never be complete.
 ## Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rejected Titles](https://blog.froth.zone/sam/rejected-titles)
 - [Banging my Head Against a Wall for the Hundredth Time](https://blog.froth.zone/sam/banging-my-head-against-a-wall-for-the-hundredth-time)
 - [Fixing an Underclocking Issue](https://blog.froth.zone/sam/fixing-an-underclocking-issue)
 - [idk what to put here, part 2](https://blog.froth.zone/sam/idk-what-to-put-here-part-2)
 - [Most Linux Distros are Almost Exactly the Same](https://blog.froth.zone/sam/most-linux-distros-are-almost-exactly-the-same)
-- [Database Surgery, Featuring Synapse](https://blog.froth.zone/sam/database-surgery-featuring-synapse)
 <!-- BLOG-POST-LIST:END -->
 
 [![See More Posts](https://img.shields.io/badge/See%20More%20Posts-grey?style=social&logo=writedotas)](https://blog.froth.zone/sam)
