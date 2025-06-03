@@ -35,11 +35,11 @@ This list may never be complete.
 ## Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tech Stuff I Like](https://blog.froth.zone/sam/tech-stuff-i-like)
 - [A &quot;Vibe Applying&quot; Manifesto](https://blog.froth.zone/sam/a-vibe-applying-manifesto)
 - [The Philosophy of Sam Therapy, Part 1: On Programming](https://blog.froth.zone/sam/the-philosophy-of-sam-therapy-part-1-on-programming)
 - [Fake Happy](https://blog.froth.zone/sam/fake-happy)
 - [Nothing has changed.](https://blog.froth.zone/sam/nothing-has-changed)
-- [Rejected Titles](https://blog.froth.zone/sam/rejected-titles)
 <!-- BLOG-POST-LIST:END -->
 
 [![See More Posts](https://img.shields.io/badge/See%20More%20Posts-grey?style=social&logo=writedotas)](https://blog.froth.zone/sam)
