@@ -35,11 +35,11 @@ This list may never be complete.
 ## Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Disorder](https://blog.froth.zone/sam/disorder)
 - [Soup is Good Food](https://blog.froth.zone/sam/soup-is-good-food)
 - [Asleep](https://blog.froth.zone/sam/asleep)
 - [In the Backseat](https://blog.froth.zone/sam/in-the-backseat)
 - [Paris](https://blog.froth.zone/sam/paris)
-- [Tech Stuff I Like](https://blog.froth.zone/sam/tech-stuff-i-like)
 <!-- BLOG-POST-LIST:END -->
 
 [![See More Posts](https://img.shields.io/badge/See%20More%20Posts-grey?style=social&logo=writedotas)](https://blog.froth.zone/sam)
