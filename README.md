@@ -35,11 +35,11 @@ This list may never be complete.
 ## Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Blogust, Part 5](https://blog.froth.zone/sam/blogust-part-5)
 - [Blogust, Part 4](https://blog.froth.zone/sam/blogust-part-4)
 - [Blogust, Part 3](https://blog.froth.zone/sam/blogust-part-3)
 - [Blogust, Part 2](https://blog.froth.zone/sam/blogust-part-2)
 - [Blogust, Part 1](https://blog.froth.zone/sam/blogust-part-1)
-- [Disorder](https://blog.froth.zone/sam/disorder)
 <!-- BLOG-POST-LIST:END -->
 
 [![See More Posts](https://img.shields.io/badge/See%20More%20Posts-grey?style=social&logo=writedotas)](https://blog.froth.zone/sam)
