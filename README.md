@@ -35,11 +35,11 @@ This list may never be complete.
 ## Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Blogust the 13th](https://blog.froth.zone/sam/blogust-the-13th)
 - [Blogust 12: Good News, Maybe?](https://blog.froth.zone/sam/blogust-12-good-news-maybe)
 - [Blogust 11: The One Where I Do Travel Planning](https://blog.froth.zone/sam/blogust-11-the-one-where-i-do-travel-planning)
 - [Blogust, Part 10](https://blog.froth.zone/sam/blogust-part-10)
 - [Blogust, Part 9](https://blog.froth.zone/sam/blogust-part-9)
-- [Blogust, Part 8](https://blog.froth.zone/sam/blogust-part-8)
 <!-- BLOG-POST-LIST:END -->
 
 [![See More Posts](https://img.shields.io/badge/See%20More%20Posts-grey?style=social&logo=writedotas)](https://blog.froth.zone/sam)
