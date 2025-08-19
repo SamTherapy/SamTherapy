@@ -35,11 +35,11 @@ This list may never be complete.
 ## Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [One More Month [of Unemployment]](https://blog.froth.zone/sam/one-more-month-of-unemployment)
 - [Blogust 17, Bed Rot 2](https://blog.froth.zone/sam/blogust-17-bed-rot-2)
 - [blogust 16](https://blog.froth.zone/sam/blogust-16)
 - [Komm, süsser Tod &lpar;Blogust 15&rpar;](https://blog.froth.zone/sam/komm-susser-tod-blogust-15)
 - [Synapse, Postgres and Corruption, a Blogust Story](https://blog.froth.zone/sam/synapse-postgres-and-corruption-a-blogust-story)
-- [Blogust the 13th](https://blog.froth.zone/sam/blogust-the-13th)
 <!-- BLOG-POST-LIST:END -->
 
 [![See More Posts](https://img.shields.io/badge/See%20More%20Posts-grey?style=social&logo=writedotas)](https://blog.froth.zone/sam)
