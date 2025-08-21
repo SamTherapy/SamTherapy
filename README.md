@@ -35,11 +35,11 @@ This list may never be complete.
 ## Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Blogust XX](https://blog.froth.zone/sam/blogust-xx)
 - [Blogust Nineteen](https://blog.froth.zone/sam/blogust-nineteen)
 - [One More Month [of Unemployment]](https://blog.froth.zone/sam/one-more-month-of-unemployment)
 - [Blogust 17, Bed Rot 2](https://blog.froth.zone/sam/blogust-17-bed-rot-2)
 - [blogust 16](https://blog.froth.zone/sam/blogust-16)
-- [Komm, süsser Tod &lpar;Blogust 15&rpar;](https://blog.froth.zone/sam/komm-susser-tod-blogust-15)
 <!-- BLOG-POST-LIST:END -->
 
 [![See More Posts](https://img.shields.io/badge/See%20More%20Posts-grey?style=social&logo=writedotas)](https://blog.froth.zone/sam)
