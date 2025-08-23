@@ -35,11 +35,11 @@ This list may never be complete.
 ## Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Blogust: Episode XXII - The 300th Job Rejection Extravaganza](https://blog.froth.zone/sam/blogust-episode-xxii-the-300th-job-rejection-extravaganza)
 - [Blogust XXI](https://blog.froth.zone/sam/blogust-xxi)
 - [Blogust XX](https://blog.froth.zone/sam/blogust-xx)
 - [Blogust Nineteen](https://blog.froth.zone/sam/blogust-nineteen)
 - [One More Month [of Unemployment]](https://blog.froth.zone/sam/one-more-month-of-unemployment)
-- [Blogust 17, Bed Rot 2](https://blog.froth.zone/sam/blogust-17-bed-rot-2)
 <!-- BLOG-POST-LIST:END -->
 
 [![See More Posts](https://img.shields.io/badge/See%20More%20Posts-grey?style=social&logo=writedotas)](https://blog.froth.zone/sam)
