@@ -35,11 +35,11 @@ This list may never be complete.
 ## Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Blogust: Episode XXIV - Nothing](https://blog.froth.zone/sam/blogust-episode-xxiv-nothing)
 - [Blogust XXIII - Lazy Saturday IV](https://blog.froth.zone/sam/blogust-xxiii-lazy-saturday-iv)
 - [Blogust: Episode XXII - The 300th Job Rejection Extravaganza](https://blog.froth.zone/sam/blogust-episode-xxii-the-300th-job-rejection-extravaganza)
 - [Blogust XXI](https://blog.froth.zone/sam/blogust-xxi)
 - [Blogust XX](https://blog.froth.zone/sam/blogust-xx)
-- [Blogust Nineteen](https://blog.froth.zone/sam/blogust-nineteen)
 <!-- BLOG-POST-LIST:END -->
 
 [![See More Posts](https://img.shields.io/badge/See%20More%20Posts-grey?style=social&logo=writedotas)](https://blog.froth.zone/sam)
