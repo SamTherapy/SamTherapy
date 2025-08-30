@@ -35,11 +35,11 @@ This list may never be complete.
 ## Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Disclosing my Hosting Costs on Blogust XXIX](https://blog.froth.zone/sam/disclosing-my-hosting-costs-on-blogust-xxix)
 - [Blogust XXVIII: A Premonition of a Storm &lpar;of Writing&rpar;](https://blog.froth.zone/sam/blogust-xxviii-a-premonition-of-a-storm-of-writing)
 - [Blogust [XXVII] Hotel and Casino](https://blog.froth.zone/sam/blogust-xxvii-hotel-and-casino)
 - [Untitled, Commonly Known as Blogust XXVI](https://blog.froth.zone/sam/untitled-commonly-known-as-blogust-xxvi)
 - [The Froth Zone Presents: Blogust XXV](https://blog.froth.zone/sam/the-froth-zone-presents-blogust-xxv)
-- [Blogust: Episode XXIV - Nothing](https://blog.froth.zone/sam/blogust-episode-xxiv-nothing)
 <!-- BLOG-POST-LIST:END -->
 
 [![See More Posts](https://img.shields.io/badge/See%20More%20Posts-grey?style=social&logo=writedotas)](https://blog.froth.zone/sam)
