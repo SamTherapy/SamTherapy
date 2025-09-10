@@ -35,11 +35,11 @@ This list may never be complete.
 ## Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Synapse: A &quot;Postmortem&quot;](https://blog.froth.zone/sam/synapse-a-postmortem)
 - [26](https://blog.froth.zone/sam/26)
 - [Bloquons Tout](https://blog.froth.zone/sam/bloquons-tout)
 - [Objective Journalism is a Myth](https://blog.froth.zone/sam/objective-journalism-is-a-myth)
 - [Month of Blogust: A Reflection of 31 Posts](https://blog.froth.zone/sam/month-of-blogust-a-reflection-of-31-posts)
-- [An &quot;AI Sceptic&quot; Tries Using Local Large Language Models: Blogust XXXI](https://blog.froth.zone/sam/an-ai-sceptic-tries-using-local-large-language-models-blogust-xxxi)
 <!-- BLOG-POST-LIST:END -->
 
 [![See More Posts](https://img.shields.io/badge/See%20More%20Posts-grey?style=social&logo=writedotas)](https://blog.froth.zone/sam)
