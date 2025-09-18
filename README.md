@@ -35,11 +35,11 @@ This list may never be complete.
 ## Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Yet Another Month of Unemployment](https://blog.froth.zone/sam/yet-another-month-of-unemployment)
 - [On Touching Grass](https://blog.froth.zone/sam/on-touching-grass)
 - [Synapse: A &quot;Postmortem&quot;](https://blog.froth.zone/sam/synapse-a-postmortem)
 - [26](https://blog.froth.zone/sam/26)
 - [Bloquons Tout](https://blog.froth.zone/sam/bloquons-tout)
-- [Objective Journalism is a Myth](https://blog.froth.zone/sam/objective-journalism-is-a-myth)
 <!-- BLOG-POST-LIST:END -->
 
 [![See More Posts](https://img.shields.io/badge/See%20More%20Posts-grey?style=social&logo=writedotas)](https://blog.froth.zone/sam)
