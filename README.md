@@ -35,11 +35,11 @@ This list may never be complete.
 ## Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [My opinion on THE CURRENT THING](https://blog.froth.zone/sam/my-opinion-on-the-current-thing)
 - [About You](https://blog.froth.zone/sam/about-you)
 - [TRUST THE PLAN &lpar;9&rpar;](https://blog.froth.zone/sam/trust-the-plan-9)
 - [Sometimes, less is more.](https://blog.froth.zone/sam/sometimes-less-is-more)
 - [&lpar;More than&rpar; Four &lpar;minus Two&rpar; Years of the Fediverse](https://blog.froth.zone/sam/more-than-four-minus-two-years-of-the-fediverse)
-- [Chronicles of the Sick](https://blog.froth.zone/sam/chronicles-of-the-sick)
 <!-- BLOG-POST-LIST:END -->
 
 [![See More Posts](https://img.shields.io/badge/See%20More%20Posts-grey?style=social&logo=writedotas)](https://blog.froth.zone/sam)
