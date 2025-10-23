@@ -35,11 +35,11 @@ This list may never be complete.
 ## Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Aside: I Want to Like Openvibe](https://blog.froth.zone/sam/aside-i-want-to-like-openvibe)
 - [Unemployment: the Third &lpar;Month&rpar;](https://blog.froth.zone/sam/unemployment-the-third-month)
 - [My opinion on THE CURRENT THING](https://blog.froth.zone/sam/my-opinion-on-the-current-thing)
 - [About You](https://blog.froth.zone/sam/about-you)
 - [TRUST THE PLAN &lpar;9&rpar;](https://blog.froth.zone/sam/trust-the-plan-9)
-- [Sometimes, less is more.](https://blog.froth.zone/sam/sometimes-less-is-more)
 <!-- BLOG-POST-LIST:END -->
 \
 [![See More Posts](https://img.shields.io/badge/See%20More%20Posts-grey?style=social&logo=writedotas)](https://blog.froth.zone/sam)
