@@ -35,6 +35,7 @@ This list may never be complete.
 ## Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Synapse Postmortem 2: More corruption!](https://blog.froth.zone/sam/synapse-postmortem-2-more-corruption)
 - [Aside: I Want to Like Openvibe](https://blog.froth.zone/sam/aside-i-want-to-like-openvibe)
 - [Unemployment: the Third &lpar;Month&rpar;](https://blog.froth.zone/sam/unemployment-the-third-month)
 - [My opinion on THE CURRENT THING](https://blog.froth.zone/sam/my-opinion-on-the-current-thing)
@@ -44,7 +45,6 @@ This list may never be complete.
 - [&lpar;More than&rpar; Four &lpar;minus Two&rpar; Years of the Fediverse](https://blog.froth.zone/sam/more-than-four-minus-two-years-of-the-fediverse)
 - [Chronicles of the Sick](https://blog.froth.zone/sam/chronicles-of-the-sick)
 - [House Sitting](https://blog.froth.zone/sam/house-sitting)
-- [Yet Another Month of Unemployment](https://blog.froth.zone/sam/yet-another-month-of-unemployment)
 <!-- BLOG-POST-LIST:END -->
 \
 [![See More Posts](https://img.shields.io/badge/See%20More%20Posts-grey?style=social&logo=writedotas)](https://blog.froth.zone/sam)
