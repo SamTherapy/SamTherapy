@@ -35,6 +35,7 @@ This list may never be complete.
 ## Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fall Server Cleaning &lpar;part of No Draft November&rpar;](https://blog.froth.zone/sam/fall-server-cleaning-part-of-no-draft-november)
 - [No Draft November](https://blog.froth.zone/sam/no-draft-november)
 - [Synapse Postmortem 2: More corruption!](https://blog.froth.zone/sam/synapse-postmortem-2-more-corruption)
 - [Aside: I Want to Like Openvibe](https://blog.froth.zone/sam/aside-i-want-to-like-openvibe)
@@ -44,7 +45,6 @@ This list may never be complete.
 - [TRUST THE PLAN &lpar;9&rpar;](https://blog.froth.zone/sam/trust-the-plan-9)
 - [Sometimes, less is more.](https://blog.froth.zone/sam/sometimes-less-is-more)
 - [&lpar;More than&rpar; Four &lpar;minus Two&rpar; Years of the Fediverse](https://blog.froth.zone/sam/more-than-four-minus-two-years-of-the-fediverse)
-- [Chronicles of the Sick](https://blog.froth.zone/sam/chronicles-of-the-sick)
 <!-- BLOG-POST-LIST:END -->
 \
 [![See More Posts](https://img.shields.io/badge/See%20More%20Posts-grey?style=social&logo=writedotas)](https://blog.froth.zone/sam)
