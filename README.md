@@ -35,7 +35,7 @@ This list may never be complete.
 ## Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Fall Server Cleaning &lpar;part of No Draft November&rpar;](https://blog.froth.zone/sam/fall-server-cleaning-part-of-no-draft-november)
+- [Fall Server Cleaning](https://blog.froth.zone/sam/fall-server-cleaning-part-of-no-draft-november)
 - [No Draft November](https://blog.froth.zone/sam/no-draft-november)
 - [Synapse Postmortem 2: More corruption!](https://blog.froth.zone/sam/synapse-postmortem-2-more-corruption)
 - [Aside: I Want to Like Openvibe](https://blog.froth.zone/sam/aside-i-want-to-like-openvibe)
