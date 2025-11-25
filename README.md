@@ -35,6 +35,7 @@ This list may never be complete.
 ## Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A&#39;ing Your Q&#39;s](https://blog.froth.zone/sam/aing-your-qs)
 - [Unemployment Four](https://blog.froth.zone/sam/unemployment-four)
 - [Aside: Break Your Local Echo Chamber](https://blog.froth.zone/sam/aside-break-your-local-echo-chamber)
 - [Fall Server Cleaning](https://blog.froth.zone/sam/fall-server-cleaning-part-of-no-draft-november)
@@ -44,7 +45,6 @@ This list may never be complete.
 - [Unemployment: the Third &lpar;Month&rpar;](https://blog.froth.zone/sam/unemployment-the-third-month)
 - [My opinion on THE CURRENT THING](https://blog.froth.zone/sam/my-opinion-on-the-current-thing)
 - [About You](https://blog.froth.zone/sam/about-you)
-- [TRUST THE PLAN &lpar;9&rpar;](https://blog.froth.zone/sam/trust-the-plan-9)
 <!-- BLOG-POST-LIST:END -->
 \
 [![See More Posts](https://img.shields.io/badge/See%20More%20Posts-grey?style=social&logo=writedotas)](https://blog.froth.zone/sam)
