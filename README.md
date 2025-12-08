@@ -35,6 +35,7 @@ This list may never be complete.
 ## Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[The] Landslide](https://blog.froth.zone/sam/the-landslide)
 - [I Really Want to Like Nextcloud](https://blog.froth.zone/sam/i-really-want-to-like-nextcloud)
 - [Aside: &lpar;Unintentional&rpar; Internet Detoxification](https://blog.froth.zone/sam/aside-unintentional-internet-detoxification)
 - [Aside: The Wanderlust](https://blog.froth.zone/sam/aside-the-wanderlust)
@@ -44,7 +45,6 @@ This list may never be complete.
 - [Fall Server Cleaning](https://blog.froth.zone/sam/fall-server-cleaning-part-of-no-draft-november)
 - [No Draft November](https://blog.froth.zone/sam/no-draft-november)
 - [Synapse Postmortem 2: More corruption!](https://blog.froth.zone/sam/synapse-postmortem-2-more-corruption)
-- [Aside: I Want to Like Openvibe](https://blog.froth.zone/sam/aside-i-want-to-like-openvibe)
 <!-- BLOG-POST-LIST:END -->
 \
 [![See More Posts](https://img.shields.io/badge/See%20More%20Posts-grey?style=social&logo=writedotas)](https://blog.froth.zone/sam)
