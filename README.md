@@ -35,6 +35,7 @@ This list may never be complete.
 ## Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [waiting](https://blog.froth.zone/sam/waiting)
 - [XSS on Your Blog for Fun and Profit &lpar;and a comments section on Writefreely&rpar;](https://blog.froth.zone/sam/xss-on-your-blog-for-fun-and-profit-and-a-comments-section-on-writefreely)
 - [[The] Landslide](https://blog.froth.zone/sam/the-landslide)
 - [I Really Want to Like Nextcloud](https://blog.froth.zone/sam/i-really-want-to-like-nextcloud)
@@ -44,7 +45,6 @@ This list may never be complete.
 - [Unemployment Four](https://blog.froth.zone/sam/unemployment-four)
 - [Aside: Break Your Local Echo Chamber](https://blog.froth.zone/sam/aside-break-your-local-echo-chamber)
 - [Fall Server Cleaning](https://blog.froth.zone/sam/fall-server-cleaning-part-of-no-draft-november)
-- [No Draft November](https://blog.froth.zone/sam/no-draft-november)
 <!-- BLOG-POST-LIST:END -->
 \
 [![See More Posts](https://img.shields.io/badge/See%20More%20Posts-grey?style=social&logo=writedotas)](https://blog.froth.zone/sam)
