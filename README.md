@@ -35,6 +35,7 @@ This list may never be complete.
 ## Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[Temporarily] Going Dark](https://blog.froth.zone/sam/temporarily-going-dark)
 - [waiting](https://blog.froth.zone/sam/waiting)
 - [XSS on Your Blog for Fun and Profit &lpar;and a comments section on Writefreely&rpar;](https://blog.froth.zone/sam/xss-on-your-blog-for-fun-and-profit-and-a-comments-section-on-writefreely)
 - [[The] Landslide](https://blog.froth.zone/sam/the-landslide)
@@ -44,7 +45,6 @@ This list may never be complete.
 - [A&#39;ing Your Q&#39;s](https://blog.froth.zone/sam/aing-your-qs)
 - [Unemployment Four](https://blog.froth.zone/sam/unemployment-four)
 - [Aside: Break Your Local Echo Chamber](https://blog.froth.zone/sam/aside-break-your-local-echo-chamber)
-- [Fall Server Cleaning](https://blog.froth.zone/sam/fall-server-cleaning-part-of-no-draft-november)
 <!-- BLOG-POST-LIST:END -->
 \
 [![See More Posts](https://img.shields.io/badge/See%20More%20Posts-grey?style=social&logo=writedotas)](https://blog.froth.zone/sam)
