@@ -35,6 +35,7 @@ This list may never be complete.
 ## Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A New Career In A New Town, Part 2: Chaos and Order](https://blog.froth.zone/sam/a-new-career-in-a-new-town-part-2-chaos-and-order)
 - [A New Career In A New Town, Part 1: It All Went Wrong](https://blog.froth.zone/sam/a-new-career-in-a-new-town-part-1-it-all-went-wrong)
 - [[Temporarily] Going Dark](https://blog.froth.zone/sam/temporarily-going-dark)
 - [waiting](https://blog.froth.zone/sam/waiting)
@@ -44,7 +45,6 @@ This list may never be complete.
 - [Aside: &lpar;Unintentional&rpar; Internet Detoxification](https://blog.froth.zone/sam/aside-unintentional-internet-detoxification)
 - [Aside: The Wanderlust](https://blog.froth.zone/sam/aside-the-wanderlust)
 - [A&#39;ing Your Q&#39;s](https://blog.froth.zone/sam/aing-your-qs)
-- [Unemployment Four](https://blog.froth.zone/sam/unemployment-four)
 <!-- BLOG-POST-LIST:END -->
 \
 [![See More Posts](https://img.shields.io/badge/See%20More%20Posts-grey?style=social&logo=writedotas)](https://blog.froth.zone/sam)
