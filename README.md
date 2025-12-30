@@ -35,16 +35,16 @@ This list may never be complete.
 ## Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Merry Christmas, Please Don&#39;t Call](https://blog.froth.zone/sam/merry-christmas-please-dont-call)
+- [Who Wants to Live Forever?](https://blog.froth.zone/sam/who-wants-to-live-forever)
+- [A New Career In A New Town, Part 4: Progress!](https://blog.froth.zone/sam/a-new-career-in-a-new-town-part-4-progress)
+- [Aside: Many of My Favourite Songs are Long](https://blog.froth.zone/sam/aside-many-of-my-favourite-songs-are-long)
+- [Aside: Metro Chronicles II](https://blog.froth.zone/sam/aside-metro-chronicles-ii)
+- [Aside: Metro Chronicles I](https://blog.froth.zone/sam/aside-metro-chronicles-i)
+- [A New Career In A New Town, Part 3: Now What?](https://blog.froth.zone/sam/a-new-career-in-a-new-town-part-3-now-what)
 - [A New Career In A New Town, Part 2: Chaos and Order](https://blog.froth.zone/sam/a-new-career-in-a-new-town-part-2-chaos-and-order)
 - [A New Career In A New Town, Part 1: It All Went Wrong](https://blog.froth.zone/sam/a-new-career-in-a-new-town-part-1-it-all-went-wrong)
 - [[Temporarily] Going Dark](https://blog.froth.zone/sam/temporarily-going-dark)
-- [waiting](https://blog.froth.zone/sam/waiting)
-- [XSS on Your Blog for Fun and Profit &lpar;and a comments section on Writefreely&rpar;](https://blog.froth.zone/sam/xss-on-your-blog-for-fun-and-profit-and-a-comments-section-on-writefreely)
-- [[The] Landslide](https://blog.froth.zone/sam/the-landslide)
-- [I Really Want to Like Nextcloud](https://blog.froth.zone/sam/i-really-want-to-like-nextcloud)
-- [Aside: &lpar;Unintentional&rpar; Internet Detoxification](https://blog.froth.zone/sam/aside-unintentional-internet-detoxification)
-- [Aside: The Wanderlust](https://blog.froth.zone/sam/aside-the-wanderlust)
-- [A&#39;ing Your Q&#39;s](https://blog.froth.zone/sam/aing-your-qs)
 <!-- BLOG-POST-LIST:END -->
 \
 [![See More Posts](https://img.shields.io/badge/See%20More%20Posts-grey?style=social&logo=writedotas)](https://blog.froth.zone/sam)
