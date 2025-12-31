@@ -35,6 +35,9 @@ This list may never be complete.
 ## Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Metro Chronicles IV](https://blog.froth.zone/sam/metro-chronicles-iv)
+- [Metro Chronicles III](https://blog.froth.zone/sam/metro-chronicles-iii)
+- [Starving the Attention Economy](https://blog.froth.zone/sam/starving-the-attention-economy)
 - [A New Career In A New Town, Part 5: Finale &lpar;for now&rpar;](https://blog.froth.zone/sam/a-new-career-in-a-new-town-part-5-finale-for-now)
 - [Merry Christmas, Please Don&#39;t Call](https://blog.froth.zone/sam/merry-christmas-please-dont-call)
 - [Who Wants to Live Forever?](https://blog.froth.zone/sam/who-wants-to-live-forever)
@@ -42,9 +45,6 @@ This list may never be complete.
 - [Aside: Many of My Favourite Songs are Long](https://blog.froth.zone/sam/aside-many-of-my-favourite-songs-are-long)
 - [Aside: Metro Chronicles II](https://blog.froth.zone/sam/aside-metro-chronicles-ii)
 - [Aside: Metro Chronicles I](https://blog.froth.zone/sam/aside-metro-chronicles-i)
-- [A New Career In A New Town, Part 3: Now What?](https://blog.froth.zone/sam/a-new-career-in-a-new-town-part-3-now-what)
-- [A New Career In A New Town, Part 2: Chaos and Order](https://blog.froth.zone/sam/a-new-career-in-a-new-town-part-2-chaos-and-order)
-- [A New Career In A New Town, Part 1: It All Went Wrong](https://blog.froth.zone/sam/a-new-career-in-a-new-town-part-1-it-all-went-wrong)
 <!-- BLOG-POST-LIST:END -->
 \
 [![See More Posts](https://img.shields.io/badge/See%20More%20Posts-grey?style=social&logo=writedotas)](https://blog.froth.zone/sam)
