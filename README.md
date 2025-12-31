@@ -35,6 +35,7 @@ This list may never be complete.
 ## Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Looking Back on 2025](https://blog.froth.zone/sam/looking-back-on-2025)
 - [Metro Chronicles IV](https://blog.froth.zone/sam/metro-chronicles-iv)
 - [Metro Chronicles III](https://blog.froth.zone/sam/metro-chronicles-iii)
 - [Starving the Attention Economy](https://blog.froth.zone/sam/starving-the-attention-economy)
@@ -44,7 +45,6 @@ This list may never be complete.
 - [A New Career In A New Town, Part 4: Progress!](https://blog.froth.zone/sam/a-new-career-in-a-new-town-part-4-progress)
 - [Aside: Many of My Favourite Songs are Long](https://blog.froth.zone/sam/aside-many-of-my-favourite-songs-are-long)
 - [Aside: Metro Chronicles II](https://blog.froth.zone/sam/aside-metro-chronicles-ii)
-- [Aside: Metro Chronicles I](https://blog.froth.zone/sam/aside-metro-chronicles-i)
 <!-- BLOG-POST-LIST:END -->
 \
 [![See More Posts](https://img.shields.io/badge/See%20More%20Posts-grey?style=social&logo=writedotas)](https://blog.froth.zone/sam)
